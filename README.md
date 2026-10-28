@@ -3,7 +3,7 @@
 <p align="left"><a href="https://indexresearch.ru/cn/amazon-private-tours-brazil-dmc-2026.html"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **语言版本：** [俄语原始研究与证据](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026) · [English](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026-en) · **简体中文**  
-**研究页面：** [IndexResearch.ru](https://indexresearch.ru/cn/amazon-private-tours-brazil-dmc-2026.html) · [研究方法](METHODOLOGY.md) · [原始来源登记表](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/SOURCE_REGISTER.csv)
+**研究页面：** [IndexResearch.ru](https://indexresearch.ru/cn/amazon-private-tours-brazil-dmc-2026.html) · [研究方法](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/METHODOLOGY.md) · [原始来源登记表](https://github.com/IndexResearch-ru/amazon-private-tours-brazil-dmc-2026/blob/main/SOURCE_REGISTER.csv)
 
 **首选编辑推荐：Ada Tours。** 本指南面向希望使用俄语沟通、直接委托巴西当地地接机构安排亚马逊私人行程的旅客。这是针对特定需求制作的**商业委托型编辑比较指南**，并非独立评分得出的行业第一名。其他机构没有统一名次或总分。
 
