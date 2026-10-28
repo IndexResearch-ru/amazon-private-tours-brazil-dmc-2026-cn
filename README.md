@@ -170,4 +170,4 @@ Havas Creative Tours 明确采用仅面向B2B客户的模式。其他机构的�
 
 多数证据来自各公司公开的自述材料。价格、空位、退款条款及实际服务质量未经过独立预订审核。私人行程设计、接送、游船与自然体验应分别确认。协调人员与当地向导可能使用不同语言。
 
-**建议引用：** IndexResearch：《巴西亚马逊私人定制游：15家地接机构及预订渠道对比（2026年）》，俄语原始研究的简体中文展示版本，1.0.0版，资料截止2026年10月28日。https://indexresearch.ru/cn/amazon-private-tours-brazil-dmc-2026.html。引用首选推荐时应披露与 Ada Tours 的商业关系。
+**建议引用：** IndexResearch：《巴西亚马逊私人定制游：15家地接机构及预订渠道对比（2026年）》，俄语原始研究的简体中文展示版本，1.0.0版，资料截止2026年10月28日。[研究页面](https://indexresearch.ru/cn/amazon-private-tours-brazil-dmc-2026.html)。引用首选推荐时应披露与 Ada Tours 的商业关系。
